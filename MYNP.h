@@ -4,7 +4,7 @@
 #include<string>
 #include<vector>
 using namespace std;
-struct Data
+struct  Data
 {   
     int  day;
     int  mon;
